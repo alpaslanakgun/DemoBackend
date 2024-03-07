@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBackend.Business", "Dem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBackend.Api", "DemoBackend.Api\DemoBackend.Api.csproj", "{96BD70C3-A2C8-457D-8E2A-4A287A57DB31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBackend.Core", "DemoBackend.Core\DemoBackend.Core.csproj", "{1968D00A-9E14-4296-8E8D-E5DD77F586F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{96BD70C3-A2C8-457D-8E2A-4A287A57DB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96BD70C3-A2C8-457D-8E2A-4A287A57DB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96BD70C3-A2C8-457D-8E2A-4A287A57DB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1968D00A-9E14-4296-8E8D-E5DD77F586F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1968D00A-9E14-4296-8E8D-E5DD77F586F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1968D00A-9E14-4296-8E8D-E5DD77F586F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1968D00A-9E14-4296-8E8D-E5DD77F586F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

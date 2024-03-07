@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DemoBackend.Core\DemoBackend.Core.csproj" />
+    <ProjectReference Include="..\DemoBackend.Entities\DemoBackend.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
